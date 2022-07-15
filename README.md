@@ -24,7 +24,7 @@ This is a website for any offline store
 ![Screenshot (251)](https://user-images.githubusercontent.com/56758330/179173028-96fda4fe-e32d-4e9d-b0cc-d29bc772c083.png)
 
 #Screen7
-![Screenshot (252)](https://user-images.githubusercontent.com/56758330/179173054-51b3152a-0425-4714-af59-efd17c92d053.png
+![Screenshot (252)](https://user-images.githubusercontent.com/56758330/179173054-51b3152a-0425-4714-af59-efd17c92d053.png)
 
 
 
