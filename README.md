@@ -1,4 +1,7 @@
 ## FRT_project
+AzureLink: https://black-moss-030dbeb10.1.azurestaticapps.net
+GitHubPagesLink: https://vermavinay8948.github.io/FRT_project/
+
 
 This is a website for any offline store
 
